@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: c82e088069682f94b990fc2bf997e1a3
+timeCreated: 1506968044
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Frank Knows
+  fontNames:
+  - Frank Knows
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
